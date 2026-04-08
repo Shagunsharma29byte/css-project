@@ -1,0 +1,58 @@
+body{
+margin:0;
+font-family: Arial;
+background:#021b33;
+color:white;
+}
+
+header{
+text-align:center;
+padding:30px;
+background:#042a4f;
+}
+
+header h1{
+color:#1fc4ff;
+}
+
+nav{
+text-align:center;
+background:#0a3a63;
+padding:12px;
+}
+
+nav a{
+color:white;
+text-decoration:none;
+margin:15px;
+font-size:16px;
+}
+
+.container{
+width:80%;
+margin:auto;
+}
+
+.card{
+background:#072a4d;
+margin:30px 0;
+padding:25px;
+border-radius:10px;
+text-align:center;
+}
+
+.card h2{
+color:#1fc4ff;
+}
+
+.card img{
+width:350px;
+border-radius:10px;
+margin:15px 0;
+}
+
+footer{
+text-align:center;
+padding:20px;
+background:#042a4f;
+}
